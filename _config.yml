@@ -1,1 +1,48 @@
+# Site Settings
+locale: "en-US"
+title: "Ana's Milieu"
+title_separator: "-"
+name: Ana Musib
+description: "My Academic Website"
+url: https://anacoder1.github.io/
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "Anacoder1/Anacoder1.github.io"
+future: true
+read_more: "disabled" # if enabled, adds "Read more" links to excerpts
+
+description: Personal Website
+baseurl:
+url:
+twitter_username:
+github_username:  Anacoder1
+
 theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  name: "Ana Musib"
+  avatar: "profile.png"
+  bio: "21, CS Engineering grad"
+  email: ana1998musib@gmail.com
+  github: "Anacoder1"
+  linkedin: "https://www.linkedin.com/in/anamitra-musib-69694a63/"
+  medium: "medium.com/@anamitramusib/"
+  
+# Collections
+  collections:
+    Projects:
+      output: true
+      permalink: /:collection/:path/
+    MOOCs:
+      output: true
+      permalink: /:collection/:path/
+    CV:
+      output: true
+      permalink: /:collection/:path/
+    About:
+      output: true
+      permalink: /:collection/:path/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
