@@ -1,19 +1,20 @@
 # Site Settings
 locale: "en-US"
-title: "Ana's Milieu"
+title: "I'm Ana Musib"
 title_separator: "-"
-description: &description "My Academic Website"
+description: &description ""
 url: https://anacoder1.github.io/
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "Anacoder1/Anacoder1.github.io"
 future: true
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 
-description: Personal Website
+description: Academic Website
 baseurl:
 url:
-twitter_username:
 github_username:  Anacoder1
+medium_username: @anamitramusib
+linkedin_username: anamitra-musib-69694a63
 
 theme: jekyll-theme-minimal
 
@@ -45,3 +46,6 @@ author:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml
