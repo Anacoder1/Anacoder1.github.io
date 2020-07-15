@@ -2,8 +2,7 @@
 locale: "en-US"
 title: "Ana's Milieu"
 title_separator: "-"
-name: Ana Musib
-description: "My Academic Website"
+description: &description "My Academic Website"
 url: https://anacoder1.github.io/
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "Anacoder1/Anacoder1.github.io"
