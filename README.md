@@ -44,7 +44,7 @@ and technical articles
 ➤ **Volunteered in the "ISO & Documentation" Committee, Riviera 2018** (Dec '17 - Feb '18)<br>
 
 > Annual Cultural Fest of VIT, Vellore
-<br>
+<br><br>
 
 ### ❁ Some Projects Undertaken
 
@@ -64,15 +64,15 @@ and technical articles
 
 ### ❁ Relevant Online Courses Completed 
 
-1. *Getting Started with AWS Machine Learning, AWS @ Coursera* <code>[certificate](https://www.coursera.org/account/accomplishments/certificate/SB9Z4YGLNKDP)</code>, <code>[GitHub repo](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/)</code><br>
+1. *Getting Started with AWS Machine Learning, AWS @ Coursera* [certificate](https://www.coursera.org/account/accomplishments/certificate/SB9Z4YGLNKDP), [GitHub repo](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/)<br>
 
-2. *TensorFlow in Practice Specialization, deeplearning.ai @ Coursera* <code>[certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KEWB3DNP6KU3)</code>, <code>[GitHub page](https://anacoder1.github.io/TensorFlow-in-Practice-deeplearning.ai-Coursera/)</code><br>
+2. *TensorFlow in Practice Specialization, deeplearning.ai @ Coursera* [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KEWB3DNP6KU3), [GitHub page](https://anacoder1.github.io/TensorFlow-in-Practice-deeplearning.ai-Coursera/)<br>
 
-3. *Applied Social Network Analysis in Python, UMichigan @ Coursera* <code>[certificate](https://www.coursera.org/account/accomplishments/certificate/FX7WQWGQLX5G)</code>, <code>[GitHub repo](https://github.com/Anacoder1/AppliedSocialNetworkAnalysisInPython/)</code><br>
+3. *Applied Social Network Analysis in Python, UMichigan @ Coursera* [certificate](https://www.coursera.org/account/accomplishments/certificate/FX7WQWGQLX5G), [GitHub repo](https://github.com/Anacoder1/AppliedSocialNetworkAnalysisInPython/)<br>
 
-4. *Using Python to Access Web Data, UMichigan @ Coursera* <code>[certificate](https://www.coursera.org/account/accomplishments/certificate/YLGH6YQMF5VM)</code>, <code>[GitHub repo](https://github.com/Anacoder1/UsingPythonToAccessWebData)</code><br>
+4. *Using Python to Access Web Data, UMichigan @ Coursera* [certificate](https://www.coursera.org/account/accomplishments/certificate/YLGH6YQMF5VM), [GitHub repo](https://github.com/Anacoder1/UsingPythonToAccessWebData)<br>
 
-5. *Building Web Applications in PHP, UMichigan @ Coursera* <code>[certificate](https://www.coursera.org/account/accomplishments/certificate/92FZEGK6JT38)</code>, <code>[GitHub repo](https://github.com/Anacoder1/BuildingWebApplicationsInPHP)</code><br>
+5. *Building Web Applications in PHP, UMichigan @ Coursera* [certificate](https://www.coursera.org/account/accomplishments/certificate/92FZEGK6JT38), [GitHub repo](https://github.com/Anacoder1/BuildingWebApplicationsInPHP)<br>
 
 and many more...<br><br>
 
