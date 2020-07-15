@@ -13,8 +13,6 @@ description: Academic Website
 baseurl:
 url:
 github_username:  Anacoder1
-medium_username: @anamitramusib
-linkedin_username: anamitra-musib-69694a63
 
 theme: jekyll-theme-minimal
 
